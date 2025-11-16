@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">I'm a fourth-year Software Engineering student, passionate about learning, working, and continuously improving myself in various programming languages and platforms.</h3>
+<h3 align="center">I'm a Software Engineer, passionate about learning, working, and continuously improving myself in various programming languages and platforms.</h3>
 
 - 🔭 I’m currently working in **Data Science**
 
